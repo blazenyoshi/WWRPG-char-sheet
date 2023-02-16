@@ -1,0 +1,10 @@
+{userData}/Data/modules/
+  WWRPG-char-sheet/
+     module.json
+     artwork/
+     templates/
+     scripts/
+     styles/
+     packs/
+     lang/
+		
